@@ -1,0 +1,6 @@
+a = eval(input("Enter a = "))
+b = eval(input("Enter b = "))
+c = eval(input("Enter c = "))
+print(a,type(a))
+print(b,type(b))
+print(c,type(c))
